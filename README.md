@@ -9,7 +9,7 @@ The main aim of this project will be to classify if a customer is going to churn
 .
 .
 
-## Inspiration
+## Inspiration - test
 - What if that possible to predict someone to no-show an appointment?
 - [Link to kaggle](https://www.kaggle.com/adammaus/predicting-churn-for-bank-customers). Note: the dataset contained in this repository (the one you must use) differs from the original kaggle dataset.
 
