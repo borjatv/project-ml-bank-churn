@@ -2,6 +2,7 @@
 
 # Machine Learning - Bank Churn
 *Borja Teruelo, Carlos Azagra and Patricia Barrantes*
+
 *Data Analytics, Part Time, Barcelona, July 2021*
 
 ## Project Description
