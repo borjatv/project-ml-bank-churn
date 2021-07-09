@@ -1,15 +1,20 @@
-# Module 3 - Project 2 (ML) - Bank Churn
+<img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-### Context
-The main aim of this project will be to classify if a customer is going to churn or not
+# Machine Learning - Bank Churn
+*Borja Teruelo, Carlos Azagra and Patricia Barrantes*
 
-**Variables**
-- 01 - CustomerID: Identification of a customer
-.
-.
-.
+*Data Analytics Part Time - Barcelona - July 2021*
 
-## Inspiration
-- What if that possible to predict someone to no-show an appointment?
-- [Link to kaggle](https://www.kaggle.com/adammaus/predicting-churn-for-bank-customers). Note: the dataset contained in this repository (the one you must use) differs from the original kaggle dataset.
 
+## Project Description
+
+The main goal of this project is to **predict if a customer of this bank is going to churn or not**. For this, we have applied the different models and techniques learned during -specially- the third module of this bootcamp, such as:
+- Data wrangling
+- Clustering (_KMeans, DBSCAN_) 
+- Dimensionality reduction (_PCA, TSNE_)
+- Logistic Regression
+- Data Scaling (_StandardScaler, Max Abs, Robust, Min Max_)
+- Oversampling, undersampling and combined (_SMOTETomek, BorderlineSMOTE, SMOTE, TomekLinks_)
+- Classifier (_DecisionTree, RandomForest_)
+- Hyperparameter tunning
+- Pipelines
